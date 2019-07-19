@@ -1,0 +1,2 @@
+﻿[OptionalProjects]
+"..\OptionalPackage1\OptionalPackage1.csproj"
